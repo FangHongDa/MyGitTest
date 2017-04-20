@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         ///nihaoa 
 		//hahha
 		setContentView(R.layout.activity_main);
-		nishishuo
+        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main);
     }
 }
