@@ -22,6 +22,5 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
 		assertEquals("com.example.administrator.mygittest", appContext.getPackageName());
         assertEquals("com.example.administrator.mygittest", appContext.getPackageName());
-		assertEquals("com.example.administrator.mygittest", appContext.getPackageName());
     }
 }
